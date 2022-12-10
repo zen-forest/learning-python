@@ -9,5 +9,13 @@ fruits2 = ('Apples',)
 # Get value
 print(fruits[1])
 
-print(fruits2,type(fruits2))
+# print(fruits2,type(fruits2))
+
 # A set is a collection which is unordered and unindexed. No duplicate members. 
+
+# Create set
+fruits_set = {'apples', 'oranges', 'mangos'}
+print('apples' in fruits_set)
+
+fruits_set.add('Grape')
+print(fruits_set)
