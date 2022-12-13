@@ -1,7 +1,7 @@
 # Dictionaries is a collection which is unorderd, changeable, and indexed. 
 # No duplicate members 
 
-# Create dict
+# Create dictionary
 person = {
   "first_name": "John",
   "last_name": "Doe",
