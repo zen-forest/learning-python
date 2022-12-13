@@ -19,6 +19,11 @@ print(num)
 
 print(getSum(3,4))
 
+def printName(name, age):
+  print(f"my name is {name}, and I'm {age} years old")
+
+printName(name="Tim", age="31")
+
 # A lambda function is a small anonymous function
 # A lambda function can take any number of args,
 # But can only have one expression
